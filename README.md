@@ -23,4 +23,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://simpleicons.org/
+
+https://github.com/ruppysuppy
+
+https://github.com/jmfayard/
 -->
